@@ -1,5 +1,4 @@
 baseurl = "https://dustinleblanc.github.io"
-publishDir = "docs"
 languageCode = "en-us"
 title = "Dustin LeBlanc"
 theme = "hugo-strata-theme"
